@@ -14,6 +14,11 @@ A API utiliza métodos HTTP para realizar as operações de CRUD (Create, Read, 
 - **MongoDB Driver:** biblioteca responsável pela comunicação entre a aplicação e o banco de dados.
 - **Dotenv:** biblioteca utilizada para carregar variáveis de ambiente, como a conexão com o MongoDB.
 
+
+## ✅ Deploy rodando pelo Render
+
+https://api-cinebela.onrender.com/filmes
+
 ## ⚙️ Funcionamento do código
 
 ### 1. Importação das bibliotecas
